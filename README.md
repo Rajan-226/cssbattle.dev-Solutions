@@ -1,6 +1,7 @@
 # cssbattle.dev-Solutions
 Below figures are made only using css.<br>
 <b>
+  
 #1<br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/JRjVmtg/image.png" alt="image" border="0"></a>
 
@@ -12,4 +13,10 @@ Below figures are made only using css.<br>
 
 #4<br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gV5xcYc/image.png" alt="image" border="0"></a>
+
+#5<br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/PMccpZ1/image.png" alt="image" border="0"></a>
+
+#6<br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YNj3qQ6/image.png" alt="image" border="0"></a>
 </b>
