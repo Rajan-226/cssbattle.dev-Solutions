@@ -28,4 +28,9 @@ Below figures are made only using css.<br>
 
 #9<br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/RcY3QCC/image.png" alt="image" border="0"></a>
+
+#10<br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9ZZbGwc/image.png" alt="image" border="0"></a>
+
+
 </b>
