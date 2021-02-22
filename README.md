@@ -32,5 +32,7 @@ Below figures are made only using css.<br>
 #10<br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/9ZZbGwc/image.png" alt="image" border="0"></a>
 
+#11<br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9btsQ7X/image.png" alt="image" border="0"></a>
 
 </b>
