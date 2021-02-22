@@ -1,0 +1,85 @@
+<div class='yellow circle' id='outer'></div>
+<div class='brown circle' id='mid'></div>
+<div class='circle' id='inner'></div>
+
+<div class='yellow circle oside' id='oleft'></div>
+<div class='brown circle iside' id='ileft'></div>
+<div class='brown cover' id='lcover'></div>
+
+<div class='yellow circle oside' id='oright'></div>
+<div class='brown circle iside' id='iright'></div>
+<div class='brown cover' id='rcover'></div>
+
+<style>
+  body{
+    margin:0px;
+    background:#191210;    
+  }
+  div {
+    position:absolute;
+  }
+  .yellow{
+    background:#ECA03D;
+  }
+  .brown{
+    background:#191210;
+  }
+  .circle{
+    border-radius:50%;
+  }
+  .oside{
+    height:100px;
+    width:100px;
+    margin-top:100px;
+    z-index:-2;
+  }
+  .iside{
+    height:60px;
+    width:60px;
+    margin-top:120px;
+  }
+  .cover{
+    height:50px;
+    width:100px;
+    z-index:-1;
+  }
+  #outer{
+    height:140px;
+    width:140px;
+    margin-left:130px;
+    margin-top:80px;
+  }
+  #mid{
+    height:100px;
+    width:100px;
+    margin-left:150px;
+    margin-top:100px;
+  }
+  #inner{
+    height:50px;
+    width:50px;
+    background:#84271C;
+    margin-left:175px;
+    margin-top:125px;
+  }
+  #oleft{
+    margin-left:50px;
+  }
+  #ileft{
+    margin-left:70px;
+  }
+  #lcover{
+    margin-top:100px;
+    margin-left:50px;
+  }
+  #oright{
+    margin-left:250px;
+  }
+  #iright{
+    margin-left:270px;
+  }
+  #rcover{
+    margin-top:150px;
+    margin-left:250px;
+  }
+</style>
