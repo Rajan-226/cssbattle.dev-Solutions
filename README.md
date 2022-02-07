@@ -45,6 +45,6 @@ Below figures are made only using css.<br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ScDLtKZ/image.png" alt="image" border="0"></a>
 
 #15<br>
-<a href="https://ibb.co/JFC9xqZ"><img src="https://i.ibb.co/JFC9xqZ/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/BKw94Gk/image.png" alt="image" border="0"></a>
   
 </b>
