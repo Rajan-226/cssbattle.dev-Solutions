@@ -47,4 +47,7 @@ Below figures are made only using css.<br>
 #15<br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/BKw94Gk/image.png" alt="image" border="0"></a>
   
+#16<br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/PGggmH0/image.png" alt="image" border="0"></a>
+  
 </b>
