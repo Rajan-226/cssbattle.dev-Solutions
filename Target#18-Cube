@@ -1,0 +1,61 @@
+<div class="lowerRight"></div>
+<div class="upperLeft"></div>
+<div class="lowerLeft"></div>
+<div class="upperRight"></div>
+<div class="lowerUp"></div>
+<div class="lowerDown"></div>
+<style>
+  body{
+    margin:0;
+    background-color:#0B2429;
+  }
+  div {
+    position:absolute;
+  }
+  .lowerRight{
+    border-style:solid;
+    border-width:0 0 71px 71px;
+    border-color:transparent;
+    border-bottom-color:#998235;
+    margin:44 0 0 130;
+  }
+  .upperLeft{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 71px 71px 0 0;
+    border-color: #998235 transparent transparent transparent;
+    margin:115 0 0 130;
+  }
+  .lowerLeft{
+    border-style:solid;
+    border-width:71px 0 0 71px;
+    border-color:transparent;
+    border-left-color:#1A4341;
+    margin:44 0 0 200;
+  }
+  .upperRight{
+    border-style:solid;
+    border-width:0 71px 71px 0;
+    border-color:transparent;
+    border-right-color:#1A4341;
+    margin:114 0 0 199;
+  }
+  .lowerUp{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 70px 70px 70px;
+    border-color: transparent transparent #F3AC3C transparent;
+	margin:115 0 0 130;
+  }
+  .lowerDown{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 70px 70px 0 70px;
+    border-color: #F3AC3C transparent transparent transparent;
+    margin:185 0 0 130.5;
+  }
+  
+</style>
