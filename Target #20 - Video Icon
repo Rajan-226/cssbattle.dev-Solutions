@@ -1,0 +1,51 @@
+<div id='outerBox'></div>
+<div id='innerBox'></div>
+<div id='innerTri'></div>
+<div id='outerTri'></div>
+<style>
+  body{
+    margin: 0;
+    background-color: #512B2A;
+  }
+  div{
+    position: absolute
+  }
+  #outerBox {
+    width: 200px;
+    height: 120px;
+    border-radius: 20px;
+    margin: 90px 0px 0px 100px;
+    background: #EA6B62;
+  }
+  #innerBox{
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    margin: 120px 0px 0px 130px;
+    background: #512B2A;
+  }
+  #innerTri{
+    width:0px;
+    height:0px;
+    margin: 130px 0px 0px 215px;
+    border-top: 18px solid transparent;
+    border-bottom: 24px solid transparent;
+    border-right: 55px solid #512B2A;
+  }
+  #outerTri{
+    width: 0px;
+    hieght: 0px;
+    border-right: 50px solid transparent;
+    border-top: 50px solid #EA6B62;
+    margin: 200px 0px 0px 130px;
+  }
+  
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
