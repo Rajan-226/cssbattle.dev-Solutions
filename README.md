@@ -58,5 +58,8 @@ Below figures are made only using css.<br>
 
 #19<br>
   <a href="https://ibb.co/TWx6qpC"><img src="https://i.ibb.co/QD3Ljz5/image.png" alt="image" border="0"></a>
+
+#20<br>
+<a href="https://ibb.co/KKWMMFq"><img src="https://i.ibb.co/mN4LL6q/image.png" alt="image" border="0"></a>
  
 </b>
